@@ -1,3 +1,5 @@
+# [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/succinctrecords)
+
 # Audio to FLAC Converter
 
 A powerful, interactive command-line tool that intelligently converts any audio format to FLAC (Free Lossless Audio Codec) with automatic quality detection and preservation of metadata and artwork.
